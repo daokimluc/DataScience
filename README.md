@@ -64,7 +64,7 @@ One more thing is the book the we use this course. This is incredible book of pr
 Here is the book, [Introduction to Probability](https://www.amazon.com/gp/product/1466575573/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466575573&linkCode=as2)
 
 [Stat Learning of Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-This course if free for all people. If you finish this course, you will get certification. The main language in this course is R. It should be noted that it is not heavy math-class. 
+This course if free for all people. If you finish this course, you will get certification. The main language in this course is R and book is also free. It should be noted that it is not heavy math-class. 
 
 This course is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
@@ -77,8 +77,8 @@ You can also learn other courses in online program self-learning of Stanford suc
 You can clone data, code and awesome R or Ipython notebooks from other guys. Kagllge is a place that people share the experience, code style and ideas. You can also build your team to participate some competitions with very high prize.
 
 Here is some notebooks you should look if you want to begin with Kaggle:
-[Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
-[Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
+- [Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+- [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 
 [Data](https://datahub.io/search) is the datahub that provide many datasets for you to explore and study. It includes many fields from education, traffic, house prize, government, etc.
 
