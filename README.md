@@ -1,5 +1,15 @@
 # DataScience
 ## Language
+- R
+- Python
+- SQL
+- Excel
+- RapidMiner
+- Hadoop
+- Spark
+- Tableau
+- KNIME
+- scikit-learn
 ## Knowledge
 ## Courses
 ## Practice
