@@ -13,7 +13,7 @@
 ### R
 [What is R?](https://www.r-project.org/about.html)
 The R programming language is an free, open source, powerful and highly extensiblean source scripting language for predictive analytics and data visualization. It is very easy to build statistical models and plot graphics in R by point-and-click interface. So people with low level of programming can apply R driectly to their projects without spending much time to learn.
-I often use Python for my research projects, but I recommend R as a fisrt choise to begin DataScience path. 
+<\br> I often use Python for my research projects, but I recommend R as a fisrt choise to begin DataScience path. 
 
 ### Python
 [What is Python?](https://www.python.org/)
