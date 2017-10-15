@@ -47,5 +47,16 @@ Numerical Linear Algebra / Computational Linear Algebra / Matrix Algebra: Linear
 
 Multivariate calculus is useful for some parts of machine learning and a lot of probability. Linear / Matrix algebra is absolutely necessary for a lot of concepts in machine learning.
 ## Courses
+[CS109 of Harvard](http://cs109.github.io/2015/)
+This course will provide methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries.
+
+[Stat 110](https://projects.iq.harvard.edu/stat110/home)
+From my opinion, this is the most wonderful probability course in the world.Very atttractive, very useful, very clear, etc. I studied this course before CS109.
+
+This course will provide Basics: sample spaces and events, conditioning, Bayes' Theorem. Random variables and their distributions: distributions, moment generating functions, expectation, variance, covariance, correlation, conditional expectation. Univariate distributions: Normal, t, Binomial, Negative Binomial, Poisson, Beta, Gamma. Multivariate distributions: joint, conditional, and marginal distributions, independence, transformations, Multinomial, Multivariate Normal. Limit theorems: law of large numbers, central limit theorem. Markov chains: transition probabilities, stationary distributions, reversibility, convergence. The prerequisites are calculus (mainly single variable) and familiarity with matrices.
+
+One more thing is the book the we use when study this course. This is incredible book of probability. If you are patient to solve all problems in the book, it will help you so much not only in Data Science, even in Finance. 
+
+Here is the book, [Introduction to Probability](https://www.amazon.com/gp/product/1466575573/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466575573&linkCode=as2)
 
 ## Practice
