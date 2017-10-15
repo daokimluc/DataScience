@@ -1,4 +1,4 @@
-# DataScience
+# Path for DataScience
 ## Programming Languages
 - R
 - Python
