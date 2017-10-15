@@ -33,5 +33,19 @@ If you want to learn bigdata frameworks, you should read about Hadoop and study 
 Spark is powerful framework for realtime processing. I finished some [Spark courses](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x) because learning Spark you also learn Scala, Python, Java and Machine Learning. You can reference my repo for study Spark.
  
 ## Knowledge
+- Math
+- Math
+- Math
+- ...
+- Math
+
+I like the recommendation of William Chen.
+Before you begin, you need Multivariable Calculus, Linear Algebra, and Python. If your math background is up to multivariable calculus and linear algebra, you'll have enough background to understand almost all of the probability / statistics / machine learning for the job.
+
+Multivariate Calculus: What are the best resources for mastering multivariable calculus?
+Numerical Linear Algebra / Computational Linear Algebra / Matrix Algebra: Linear Algebra, Introduction to Linear Models and Matrix Algebra. Avoid linear algebra classes that are too theoretical, you need a linear algebra class that works with real matrices.
+
+Multivariate calculus is useful for some parts of machine learning and a lot of probability. Linear / Matrix algebra is absolutely necessary for a lot of concepts in machine learning.
 ## Courses
+
 ## Practice
