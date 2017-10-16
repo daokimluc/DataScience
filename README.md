@@ -1,4 +1,5 @@
 # Path for DataScience
+If you want to become an Data Scientist, you can reference my path that including languages you should know, courses you should study, books you should read and places you should practice. Most of books are also uploaded on my other repos [BOOKs](https://github.com/CarloNguyen/BooksandReferences)
 ## Programming Languages
 - R
 - Python
